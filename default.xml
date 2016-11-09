@@ -7,10 +7,10 @@
   <project name="poky" path="sources/poky"/>
   <project name="meta-qt5" path="sources/meta-qt5"/>
   <project name="meta-openembedded" path="sources/meta-openembedded"/>
-  <project name="meta-hio" path="sources/meta-hio"/>
+  <project fetch="https://github.com/HIO-Project" name="meta-hio" path="sources/meta-hio"/>
   <project name="meta-fsl-demos" path="sources/meta-fsl-demos"/>
   <project name="meta-fsl-arm-extra" path="sources/meta-fsl-arm-extra"/>
-  <project name="meta-fs-arm" path="sources/meta-fsl-arm"/>
+  <project name="meta-fsl-arm" path="sources/meta-fsl-arm"/>
   <project name="Documentation" path="sources/Documentation"/>
 
   <project name="base" path="sources/base">
