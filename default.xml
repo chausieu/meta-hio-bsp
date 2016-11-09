@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <default sync-j="4" revision="krogoth" remote="charles"/>
+  <default sync-j="4" revision="jethro" remote="charles"/>
   <remote fetch="https://github.com/chausieu" name="charles"/>
   <remote fetch="https://github.com/HIO-Project" name="HIO-Project"/>
 
@@ -13,7 +13,7 @@
   <project name="meta-fsl-arm-extra" path="sources/meta-fsl-arm-extra"/>
   <project name="meta-fsl-arm" path="sources/meta-fsl-arm"/>
   <project name="Documentation" path="sources/Documentation"/>
-
+  <project name="hio-imx6dl-board" />
   <project name="base" path="sources/base">
         <copyfile dest="README" src="README"/>
         <copyfile dest="setup-environment" src="setup-environment"/>
