@@ -13,7 +13,8 @@
   <project name="meta-fsl-arm-extra" path="sources/meta-fsl-arm-extra"/>
   <project name="meta-fsl-arm" path="sources/meta-fsl-arm"/>
   <project name="Documentation" path="sources/Documentation"/>
-
+  <project name="hio-imx6dl-board" />
+ 
   <project name="base" path="sources/base">
         <copyfile dest="README" src="README"/>
         <copyfile dest="setup-environment" src="setup-environment"/>
