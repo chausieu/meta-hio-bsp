@@ -8,7 +8,7 @@
   <project name="poky" path="sources/poky"/>
   <project name="meta-qt5" path="sources/meta-qt5"/>
   <project name="meta-openembedded" path="sources/meta-openembedded"/>
-  <project remote="HIO-Project" name="meta-hio" path="sources/meta-hio"/>
+  <project remote="HIO-Project" revision="3.14.52" name="meta-hio" path="sources/meta-hio"/>
   <project name="meta-fsl-demos" path="sources/meta-fsl-demos"/>
   <project name="meta-fsl-arm-extra" path="sources/meta-fsl-arm-extra"/>
   <project name="meta-fsl-arm" path="sources/meta-fsl-arm"/>
